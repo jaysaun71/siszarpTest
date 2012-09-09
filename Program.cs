@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello world");
             Console.WriteLine("linia dodana w wersji 3!");
+            Console.WriteLine("Czesc tutaj Jay");
 
         }
     }
